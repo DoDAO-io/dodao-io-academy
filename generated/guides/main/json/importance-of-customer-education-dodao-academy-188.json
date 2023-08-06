@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Customer Education : Key to Success",
-  "created": "2023-08-06T21:57:29.968Z",
+  "created": "2023-08-06T22:19:27.103Z",
   "guideType": "onboarding",
   "key": "importance-of-customer-education-dodao-academy-188",
   "name": "Importance of Customer Edu.",
@@ -128,7 +128,89 @@
     {
       "content": "",
       "name": "Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "It increases the cost of product development",
+              "key": "A"
+            },
+            {
+              "content": "It reduces the need for customer support",
+              "key": "B"
+            },
+            {
+              "content": "It helps build trust with customers",
+              "key": "C"
+            },
+            {
+              "content": "It decreases the value of a product or service",
+              "key": "D"
+            }
+          ],
+          "content": "What is one of the key benefits of customer education?",
+          "type": "SingleChoice",
+          "uuid": "7f618a2b-c5ba-4d7a-810c-01bbc2044517",
+          "explanation": "One of the key benefits of customer education is that it helps build trust with customers by demonstrating a business's expertise and commitment to helping customers succeed."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "To increase product prices",
+              "key": "A"
+            },
+            {
+              "content": "To empower customers and maximize long-term value",
+              "key": "B"
+            },
+            {
+              "content": "To decrease the need for marketing",
+              "key": "C"
+            },
+            {
+              "content": "To reduce the product quality",
+              "key": "D"
+            }
+          ],
+          "content": "What is the role of customer education in growth marketing?",
+          "type": "SingleChoice",
+          "uuid": "91971d84-5e06-4fd4-8d7a-7a2bda05a930",
+          "explanation": "Customer education provides valuable knowledge and resources to empower customers, enhancing their product experience and maximizing long-term value. It helps in creating a seamless journey from awareness to becoming enthusiastic brand advocates."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "It increases the product development time",
+              "key": "A"
+            },
+            {
+              "content": "It reduces the need for customer support",
+              "key": "B"
+            },
+            {
+              "content": "It decreases customer satisfaction",
+              "key": "C"
+            },
+            {
+              "content": "It leads to faster customer onboarding and increased product adoption",
+              "key": "D"
+            }
+          ],
+          "content": "What is the importance of a well-designed customer training program?",
+          "type": "SingleChoice",
+          "uuid": "1b43a793-a103-4341-b0c1-02aadbe2a57e",
+          "explanation": "A well-designed customer training program can lead to faster customer onboarding, increased product adoption, and improved customer satisfaction. It helps customers to fully utilize the value of the product and reduces the likelihood of churn."
+        }
+      ],
       "uuid": "10f0805a-9c99-4bef-994b-bbe8657c171b"
     }
   ],
