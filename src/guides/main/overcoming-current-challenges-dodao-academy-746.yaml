@@ -1,6 +1,6 @@
 categories: []
 content: Navigating challenges for effective customer edu. implementation
-created: '2023-08-06T21:54:27.621Z'
+created: '2023-08-06T22:15:32.324Z'
 guideType: onboarding
 key: overcoming-current-challenges-dodao-academy-746
 name: Challenges in Customer Edu.
@@ -100,7 +100,73 @@ steps:
     uuid: 55d66b66-fd89-4427-b9fa-2bfa911c57d1
   - content: ''
     name: Evaluation
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: They make the training program more fun
+            key: A
+          - content: They make the training program more difficult
+            key: B
+          - content: >-
+              They provide a clear purpose and understanding of the training
+              program
+            key: C
+          - content: They are not important for the customer
+            key: D
+        content: Why are training objectives important for the customer?
+        type: SingleChoice
+        uuid: 669b3b4e-acdf-4e09-9d33-9a7f34df0e7d
+        explanation: >-
+          Training objectives provide a clear purpose for the customer's
+          efforts. They understand why they are going through the training
+          program and what they will gain from it. This understanding motivates
+          them to actively participate and engage in the learning process.
+      - answerKeys:
+          - B
+        choices:
+          - content: They make the course creation process more complex
+            key: A
+          - content: >-
+              They serve as a guide in course creation and enable the team to
+              assess customer outcomes
+            key: B
+          - content: They have no role on the learning and development side
+            key: C
+          - content: They make the course less effective
+            key: D
+        content: >-
+          What role do training objectives play on the learning and development
+          side?
+        type: SingleChoice
+        uuid: c72f220d-fe40-4305-aa8b-d6df8f7bc04c
+        explanation: >-
+          Training objectives serve as a guide in course creation. They help the
+          team understand what the customer needs to know and how the course
+          should be designed to meet those needs. Training objectives also
+          enable the team to assess customer outcomes and measure individual
+          progress.
+      - answerKeys:
+          - D
+        choices:
+          - content: To make the training program more difficult
+            key: A
+          - content: To make the training program more fun
+            key: B
+          - content: To make the training program less effective
+            key: C
+          - content: >-
+              To categorize cognitive learning levels and communicate what the
+              customer should have learned
+            key: D
+        content: What is Bloom's taxonomy used for in defining training objectives?
+        type: SingleChoice
+        uuid: 447cfe9b-11de-4167-b8cb-cdc360fef2c3
+        explanation: >-
+          Bloom's taxonomy is used to categorize cognitive learning levels. By
+          using action verbs in the formation of training objective statements,
+          the learning and development team can clearly communicate what the
+          customer should have learned by the end of the training.
     uuid: d9fb72bb-08de-4dd8-a4c2-de8b2f4198a5
   - content: >-
       In today's business landscape, providing an excellent customer experience
@@ -181,7 +247,82 @@ steps:
     uuid: ccbe78aa-fa42-41dc-b2df-f8abfea27aca
   - content: ''
     name: Evaluation
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: By limiting customer access to information
+            key: A
+          - content: By restricting the use of customer data
+            key: B
+          - content: >-
+              By providing unlimited access to information and personalizing
+              experiences
+            key: C
+          - content: By reducing customer interaction
+            key: D
+        content: How does technology enhance customer experience?
+        type: SingleChoice
+        uuid: 713de67b-2630-4437-aede-6e4d8e2a1415
+        explanation: >-
+          Technology enhances customer experience by providing unlimited access
+          to information, enabling effective use of customer data, and creating
+          personalized experiences through AI and VR/AR technologies.
+      - answerKeys:
+          - D
+        choices:
+          - content: They have no significant role in customer experience
+            key: A
+          - content: They only handle customer complaints
+            key: B
+          - content: They only handle pleasant customer interactions
+            key: C
+          - content: They handle all customer interactions and represent the company
+            key: D
+        content: What role do frontline employees play in customer experience?
+        type: SingleChoice
+        uuid: ced23a0b-f034-422b-bbec-be40f8409d98
+        explanation: >-
+          Frontline employees are the face of the company and handle all
+          customer interactions. They represent the company and its values,
+          making them crucial in shaping the customer experience.
+      - answerKeys:
+          - B
+        choices:
+          - content: It leads to higher employee turnover rates
+            key: A
+          - content: It leads to happier customers and increased sales
+            key: B
+          - content: It has no impact on customer education services
+            key: C
+          - content: It leads to decreased sales
+            key: D
+        content: >-
+          What is the impact of supporting frontline employees on customer
+          education services?
+        type: SingleChoice
+        uuid: 4d5b268f-172d-4bcf-a4be-3b9b0daeda46
+        explanation: >-
+          When frontline employees feel supported, they are more motivated to
+          perform better and deliver excellent results, leading to happier
+          customers and increased sales.
+      - answerKeys:
+          - A
+        choices:
+          - content: By analyzing customer behavior and order history
+            key: A
+          - content: By limiting customer access to information
+            key: B
+          - content: By reducing customer interaction
+            key: C
+          - content: By restricting the use of customer data
+            key: D
+        content: How can technology predict a customer's needs?
+        type: SingleChoice
+        uuid: 6b6aa1ac-ee94-4578-b622-8f03c4a4bbb3
+        explanation: >-
+          Technology, specifically predictive analysis with AI, can predict a
+          customer's needs based on their past behavior and order history.
     uuid: 7ac29e15-84fc-45ad-9e4e-62462f063bd5
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/dodao-academy/Guide/overcoming_current_challenges_dodao_academy_746/1691358860644_undraw_breaking_barriers_vnf3.png
