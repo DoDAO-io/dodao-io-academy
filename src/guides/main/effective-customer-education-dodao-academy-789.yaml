@@ -1,6 +1,6 @@
 categories: []
 content: Effective programs empower customers through education
-created: '2023-08-06T22:00:33.138Z'
+created: '2023-08-06T22:06:51.912Z'
 guideType: onboarding
 key: effective-customer-education-dodao-academy-789
 name: 'Effective Customer Education '
@@ -228,7 +228,64 @@ steps:
     uuid: 99e07e83-d88b-4fc9-81af-61ff861dcfc7
   - content: ''
     name: Evaluation
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: To increase the price of the product
+            key: A
+          - content: To decrease the value of the product
+            key: B
+          - content: To help users better understand the value of a product or service
+            key: C
+          - content: To make the product more complicated
+            key: D
+        content: What is the main purpose of customer education programs?
+        type: SingleChoice
+        uuid: 5bb93b93-91f0-46f5-81c5-3c47d76cafe1
+        explanation: >-
+          Customer education programs are designed to help users better
+          understand the value of a product or service, which ultimately leads
+          to improved user experiences.
+      - answerKeys:
+          - B
+        choices:
+          - content: It increases customer support tickets
+            key: A
+          - content: It improves product adoption, engagement, and retention
+            key: B
+          - content: It decreases product value
+            key: C
+          - content: It makes the product more complicated
+            key: D
+        content: >-
+          What is the benefit of implementing a robust customer training
+          program?
+        type: SingleChoice
+        uuid: 7b88e030-8925-4103-996e-7bcf83270d95
+        explanation: >-
+          A robust customer training program can decrease time-to-value, improve
+          product adoption, engagement, and retention, and reduce customer
+          training costs.
+      - answerKeys:
+          - D
+        choices:
+          - content: The color of the LMS interface
+            key: A
+          - content: The number of users it can support
+            key: B
+          - content: The cost of the LMS
+            key: C
+          - content: Scalability, agility, and analytics capabilities
+            key: D
+        content: >-
+          What should be considered when choosing a Learning Management System
+          (LMS)?
+        type: SingleChoice
+        uuid: 655fbf66-5a35-4650-91e4-a69e7552ed6c
+        explanation: >-
+          When choosing an LMS, scalability, agility, and analytics capabilities
+          should be considered.
     uuid: d0e26865-9588-4492-80c7-20b20562f0af
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/dodao-academy/Guide/effective_customer_education_dodao_academy_789/1691358570458_undraw_educator_re_ju47.png
