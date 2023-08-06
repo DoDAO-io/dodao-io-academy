@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Measuring the ROI of customer education drives business growth",
-  "created": "2023-08-06T21:52:45.140Z",
+  "created": "2023-08-06T22:11:09.754Z",
   "guideType": "onboarding",
   "key": "roi-of-customer-education-dodao-academy-565",
   "name": "ROI of Customer Education ",
@@ -22,7 +22,116 @@
     {
       "content": "",
       "name": "Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "To track the number of employees",
+              "key": "A"
+            },
+            {
+              "content": "To determine the company's stock value",
+              "key": "B"
+            },
+            {
+              "content": "To evaluate the efficiency of investments and make informed decisions",
+              "key": "C"
+            },
+            {
+              "content": "To calculate the company's tax liability",
+              "key": "D"
+            }
+          ],
+          "content": "What is the primary purpose of measuring ROI in a business?",
+          "type": "SingleChoice",
+          "uuid": "7edf9f9c-d39b-40be-812d-6e1639c21761",
+          "explanation": "Measuring ROI allows businesses to evaluate the efficiency of their investments and determine the amount of return they are getting in relation to the costs incurred. It provides valuable insights into the efficiency of investments and helps businesses make informed decisions about their marketing strategies."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "It helps in setting unrealistic goals",
+              "key": "A"
+            },
+            {
+              "content": "It helps in identifying areas for improvement and setting realistic goals",
+              "key": "B"
+            },
+            {
+              "content": "It helps in setting goals based on competitors' performance",
+              "key": "C"
+            },
+            {
+              "content": "It helps in setting goals based on the company's stock value",
+              "key": "D"
+            }
+          ],
+          "content": "How does measuring ROI help in setting business goals?",
+          "type": "SingleChoice",
+          "uuid": "1501a665-4867-4246-ba12-ba0c5a52eb90",
+          "explanation": "By analyzing the ROI data, businesses can identify areas for improvement and set realistic goals based on analytics. Instead of focusing solely on short-term results, they can plan for the long-term and define goals for the year ahead."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "It helps in increasing the company's stock value",
+              "key": "A"
+            },
+            {
+              "content": "It helps in reducing the company's tax liability",
+              "key": "B"
+            },
+            {
+              "content": "It helps in tracking the number of employees",
+              "key": "C"
+            },
+            {
+              "content": "It helps in understanding the effectiveness and value of training programs",
+              "key": "D"
+            }
+          ],
+          "content": "How does ROI measurement contribute to customer training?",
+          "type": "SingleChoice",
+          "uuid": "c936f84f-c0b6-44b3-8c1a-094c9acd1880",
+          "explanation": "Measuring the ROI of customer training helps understand the effectiveness and value of training programs. It helps in tracking metrics such as customer retention rate, customer satisfaction, upselling and deep selling rate, and online reviews, which can help make informed decisions about training initiatives."
+        },
+        {
+          "answerKeys": [
+            "A"
+          ],
+          "choices": [
+            {
+              "content": "It indicates the effectiveness of the training in improving customer loyalty",
+              "key": "A"
+            },
+            {
+              "content": "It indicates the company's stock value",
+              "key": "B"
+            },
+            {
+              "content": "It indicates the number of employees in the company",
+              "key": "C"
+            },
+            {
+              "content": "It indicates the company's tax liability",
+              "key": "D"
+            }
+          ],
+          "content": "What is the significance of customer retention rate in measuring training ROI?",
+          "type": "SingleChoice",
+          "uuid": "38b166b5-13c6-4ff0-8469-7702494e0dcd",
+          "explanation": "Customer retention rate is an important metric to track as it costs up to five times more to attract a new customer than to retain an existing one. A well-designed customer training program should increase retention rates, thereby indicating the effectiveness of the training."
+        }
+      ],
       "uuid": "d1e53133-f4b6-471f-84d7-aeecbe893ba6"
     },
     {
@@ -40,7 +149,89 @@
     {
       "content": "",
       "name": "Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "The cost of implementing customer experience initiatives",
+              "key": "A"
+            },
+            {
+              "content": "The number of customers who have a positive experience",
+              "key": "B"
+            },
+            {
+              "content": "The financial value generated from improvements in customer experience",
+              "key": "C"
+            },
+            {
+              "content": "The percentage of customers who return to the business",
+              "key": "D"
+            }
+          ],
+          "content": "What does CX ROI refer to?",
+          "type": "SingleChoice",
+          "uuid": "255fc554-efa1-4a12-9183-728b1f5e667a",
+          "explanation": "CX ROI refers to the financial value generated from improvements in customer experience."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "Number of social media followers",
+              "key": "A"
+            },
+            {
+              "content": "Number of products sold",
+              "key": "B"
+            },
+            {
+              "content": "Number of employees",
+              "key": "C"
+            },
+            {
+              "content": "Customer satisfaction metrics like customer effort, NPS, and CSAT",
+              "key": "D"
+            }
+          ],
+          "content": "Which of the following can be used to measure CX ROI?",
+          "type": "SingleChoice",
+          "uuid": "acc4b7ca-c303-46cb-99e9-626d1f47706a",
+          "explanation": "Customer satisfaction metrics like customer effort, NPS, and CSAT can be used to measure CX ROI."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "Reducing the number of employees",
+              "key": "A"
+            },
+            {
+              "content": "Increasing customer retention, lifetime value, loyalty, and revenue growth",
+              "key": "B"
+            },
+            {
+              "content": "Reducing the cost of products",
+              "key": "C"
+            },
+            {
+              "content": "Increasing the number of products",
+              "key": "D"
+            }
+          ],
+          "content": "What is a benefit of investing in customer experience (CX)?",
+          "type": "SingleChoice",
+          "uuid": "5ff459ca-0654-4f5f-994e-90b45da215e9",
+          "explanation": "By investing in CX, businesses can increase customer retention, lifetime value, loyalty, and revenue growth."
+        }
+      ],
       "uuid": "9d95ed59-9698-4725-9ed5-33664f9f295c"
     }
   ],
