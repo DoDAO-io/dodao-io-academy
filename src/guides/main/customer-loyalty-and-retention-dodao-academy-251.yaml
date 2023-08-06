@@ -1,6 +1,6 @@
 categories: []
 content: Enhance loyalty and retention via customer-centric education
-created: '2023-08-04T19:31:25.890Z'
+created: '2023-08-06T10:51:38.155Z'
 guideType: onboarding
 key: customer-loyalty-and-retention-dodao-academy-251
 name: ' Customer Loyalty and Retention'
@@ -72,6 +72,71 @@ steps:
     name: Challenges faced
     stepItems: []
     uuid: cd193296-58b0-429e-955e-af41c425dce0
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: Because it is easier to sell to existing customers
+            key: A
+          - content: >-
+              Because existing customers are more likely to recommend the
+              business to others
+            key: B
+          - content: >-
+              Because it is more affordable and can significantly increase
+              profits
+            key: C
+          - content: Because existing customers are less demanding
+            key: D
+        content: >-
+          Why is customer retention considered more important than acquiring new
+          customers?
+        type: SingleChoice
+        uuid: 297857e3-10d5-4ee0-83d0-5eaa97981fbf
+        explanation: >-
+          Retaining an existing customer is much more affordable than acquiring
+          a new one and can significantly increase profits.
+      - answerKeys:
+          - B
+        choices:
+          - content: It helps businesses to advertise their products or services
+            key: A
+          - content: It helps businesses understand where improvements are needed
+            key: B
+          - content: It helps businesses to increase their prices
+            key: C
+          - content: It helps businesses to reduce their workforce
+            key: D
+        content: What role does customer feedback play in customer retention?
+        type: SingleChoice
+        uuid: e3130f98-861d-4987-aa36-9599c4993a8e
+        explanation: >-
+          Regularly collecting and analyzing customer feedback is essential for
+          understanding where improvements are needed and can improve customer
+          retention rates.
+      - answerKeys:
+          - D
+        choices:
+          - content: Because it helps businesses to sell more products or services
+            key: A
+          - content: Because it helps businesses to reduce costs
+            key: B
+          - content: Because it helps businesses to increase their market share
+            key: C
+          - content: >-
+              Because consumers expect personalized experiences and may switch
+              brands if these are not provided
+            key: D
+        content: Why is personalization important in customer retention?
+        type: SingleChoice
+        uuid: 558b507c-13e2-41c6-9c1b-bf5ace8eb5e5
+        explanation: >-
+          Consumers expect brands to treat them as individuals and offer
+          personalized experiences. Poor personalization tactics can lead to
+          customers switching to other brands.
+    uuid: 82543517-65d0-4d89-bc90-09c9056bf210
   - content: >-
       Customer retention is a crucial aspect of any business strategy. It is
       much more cost-effective to retain existing customers than to acquire new
@@ -437,5 +502,5 @@ steps:
     uuid: 784ac9b2-7a5d-4567-9759-be4f1c98f6f3
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
-uuid: 2f74a758-8b2d-45f8-9146-d69c866a8abb
+uuid: customer-loyalty-and-retention-dodao-academy-251
 version: 1
