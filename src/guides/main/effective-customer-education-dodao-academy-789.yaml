@@ -1,6 +1,6 @@
 categories: []
 content: Effective programs empower customers through education
-created: '2023-08-06T21:49:35.015Z'
+created: '2023-08-06T22:00:33.138Z'
 guideType: onboarding
 key: effective-customer-education-dodao-academy-789
 name: 'Effective Customer Education '
@@ -130,7 +130,58 @@ steps:
     uuid: 5e244bbb-1670-4efb-b318-710328c24bbd
   - content: ''
     name: Evaluation
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - B
+        choices:
+          - content: Lack of funding
+            key: A
+          - content: Lack of proper education about the product
+            key: B
+          - content: Lack of interest from the audience
+            key: C
+          - content: Lack of time
+            key: D
+        content: What is the main reason for a program to be ineffective?
+        type: SingleChoice
+        uuid: bcc8fb7e-968c-4741-bf2c-00a18621ee05
+        explanation: >-
+          The main reason for a program to be ineffective is due to lack of
+          proper education about the product.
+      - answerKeys:
+          - C
+        choices:
+          - content: To have a large budget
+            key: A
+          - content: To have a large audience
+            key: B
+          - content: To educate about the product properly
+            key: C
+          - content: To have a lot of time
+            key: D
+        content: What is the best practice for an effective program?
+        type: SingleChoice
+        uuid: 0f21052d-668e-47de-9aac-3e478fea4b62
+        explanation: >-
+          The best practice for an effective program is to educate about the
+          product properly.
+      - answerKeys:
+          - A
+        choices:
+          - content: Proper education about the product
+            key: A
+          - content: A large budget
+            key: B
+          - content: A large audience
+            key: C
+          - content: A lot of time
+            key: D
+        content: What is the main asset of an effective program?
+        type: SingleChoice
+        uuid: 987fa4b2-0bd8-4ab2-bc2b-6baedd0690aa
+        explanation: >-
+          The main asset of an effective program is proper education about the
+          product.
     uuid: 3e871dcd-a736-4cbe-a59e-23ece924a2fd
   - content: >-
       Optimizing user experience with customer education is becoming
