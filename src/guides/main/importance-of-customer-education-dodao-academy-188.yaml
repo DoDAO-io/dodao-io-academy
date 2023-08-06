@@ -1,6 +1,6 @@
 categories: []
 content: 'Customer Education : Key to Success'
-created: '2023-08-06T20:45:39.863Z'
+created: '2023-08-06T20:48:45.860Z'
 guideType: onboarding
 key: importance-of-customer-education-dodao-academy-188
 name: Importance of Customer Edu.
@@ -146,70 +146,72 @@ steps:
     name: Evaluation
     stepItems:
       - answerKeys:
-          - B
-        choices:
-          - content: >-
-              The process of providing information and training to customers
-              about a product or service
-            key: A
-          - content: The process of selling products to customers
-            key: B
-          - content: The process of advertising products to customers
-            key: C
-          - content: The process of manufacturing products for customers
-            key: D
-        content: What is customer education?
-        type: SingleChoice
-        uuid: 3381dd45-b192-43d3-8601-e6b4ee5c0fa8
-        explanation: >-
-          Customer education refers to the process of providing information and
-          training to customers about a product or service, with the goal of
-          helping them make informed purchasing decisions and effectively use
-          the product or service.
-      - answerKeys:
-          - A
-        choices:
-          - content: >-
-              It helps customers understand the value and benefits of a product
-              or service
-            key: A
-          - content: >-
-              It helps customers find cheaper alternatives to a product or
-              service
-            key: B
-          - content: It helps customers negotiate lower prices for a product or service
-            key: C
-          - content: It helps customers avoid purchasing a product or service
-            key: D
-        content: Why is customer education important?
-        type: SingleChoice
-        uuid: a33cafc5-269f-439b-af15-1a22cbe696be
-        explanation: >-
-          Customer education is important because it helps customers understand
-          the value and benefits of a product or service, reduces customer
-          support requests, increases customer satisfaction and loyalty, and
-          ultimately leads to higher sales and business growth.
-      - answerKeys:
           - C
         choices:
-          - content: Reducing customer support requests
+          - content: It decreases customer loyalty
             key: A
-          - content: Increasing customer complaints
+          - content: It increases the need for customer support
             key: B
-          - content: Increasing customer satisfaction and loyalty
+          - content: >-
+              It builds trust and strengthens the relationship between the brand
+              and the customers
             key: C
-          - content: Decreasing sales and business growth
+          - content: It leads to more customer complaints
             key: D
-        content: Which of the following is a benefit of customer education?
+        content: >-
+          What is one of the benefits of educating your customers about your
+          products or services?
         type: SingleChoice
-        uuid: a34a592a-b38c-47a2-8143-68bd229cdb2e
+        uuid: 4488ab05-0fcf-4e3a-9bf7-4cef010a9d76
         explanation: >-
-          Customer education benefits both the customers and the business. It
-          helps customers make informed purchasing decisions, effectively use
-          the product or service, and solve common problems or issues. For
-          businesses, it reduces customer support requests, increases customer
-          satisfaction and loyalty, and leads to higher sales and business
-          growth.
+          Educating your customers helps to build trust and strengthen the
+          relationship between your brand and your customers. They are more
+          likely to trust your brand and feel confident in their purchasing
+          decisions. This trust can lead to increased customer loyalty and
+          repeat business.
+      - answerKeys:
+          - B
+        choices:
+          - content: It increases support costs
+            key: A
+          - content: It reduces support costs
+            key: B
+          - content: It has no impact on support costs
+            key: C
+          - content: It increases the need for more support staff
+            key: D
+        content: How does customer education impact support costs?
+        type: SingleChoice
+        uuid: d7a025a3-164a-4864-ba30-4d523f14652e
+        explanation: >-
+          When customers have a better understanding of your products or
+          services, they are more equipped to solve problems on their own. This
+          reduces the need for them to reach out to your support channels for
+          assistance, freeing up your support staff to focus on other tasks and
+          increasing their productivity.
+      - answerKeys:
+          - D
+        choices:
+          - content: It decreases revenue
+            key: A
+          - content: It has no impact on revenue
+            key: B
+          - content: It decreases customer retention
+            key: C
+          - content: >-
+              It increases revenue and customer retention, and decreases support
+              costs
+            key: D
+        content: What is the impact of customer education on a company's bottom line?
+        type: SingleChoice
+        uuid: 41d52f2f-6c85-4ac2-a329-97a4352077f0
+        explanation: >-
+          Research has shown that companies with customer education programs in
+          place experience increased revenue, customer retention, and decreased
+          support costs. By providing valuable educational content to your
+          customers, you position yourself as a market leader and create a loyal
+          customer base that engages in word-of-mouth recommendations, bringing
+          in new prospects.
     uuid: 4c1932c7-2ff5-43ee-8798-7a85acb9bd03
   - content: >-
       Growth marketing through customer education is a crucial strategy for
