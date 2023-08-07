@@ -1,0 +1,119 @@
+{
+  "uniqueId": "987a70a8-1542-4e0e-b7bd-521a52d73cb7",
+  "id": "understanding-customer-education-dodao-academy",
+  "name": "Understanding Customer Education",
+  "content": "Understanding the importance and benefits of customer education",
+  "created": "2023-08-07T01:11:48.313Z",
+  "visibility": "Public",
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "steps": [
+    {
+      "name": "Definition and Goals",
+      "uuid": "079f10e2-fdf0-41b6-a12f-b5720e890651",
+      "content": "Customer education, also known as customer training, is a process that helps companies educate and support their customers to enhance their experience and increase loyalty. It involves providing resources and knowledge to customers to help them effectively use and benefit from a product or service. The main goal of customer education is to show customers the value of a product or service quickly and continuously over time.",
+      "stepItems": []
+    },
+    {
+      "name": "Impact and Benefits",
+      "uuid": "30c22187-76cd-4339-a3f4-503c0bb6873e",
+      "content": "Customer education programs have a significant impact on various business metrics, such as product adoption, customer retention, and lifetime value (LTV). By providing customers with the necessary resources and support, companies can help them achieve their desired outcomes, whether it's saving money, reducing support tickets, or improving efficiency.",
+      "stepItems": []
+    },
+    {
+      "name": "Customer Satisfaction and Loyalty",
+      "uuid": "aedf0db0-2130-414a-8c9f-8c023f9d63f8",
+      "content": "This, in turn, leads to increased customer satisfaction, loyalty, and ultimately drives business growth. Customer education is particularly beneficial for companies with products or services that require users to change their existing behavior, processes, or workflows. It is also valuable for products that are regularly updated with new features and functionality.",
+      "stepItems": []
+    },
+    {
+      "name": "Delivery Methods",
+      "uuid": "97aef213-f386-41a0-b5e8-19df04d1746b",
+      "content": "Depending on the goals, target audience, and complexity of the product, customer education can be delivered through various content formats, such as recorded webinars, screen-captures, infographics, slideshows, quizzes, and knowledge checks.",
+      "stepItems": []
+    },
+    {
+      "name": "Investment and Strategy",
+      "uuid": "7cb7ddb3-e5d8-4e1a-af3a-feadd414ff9f",
+      "content": "Investing in customer education is a smart strategy for businesses looking to improve the customer experience, build customer loyalty, and drive business growth. It helps companies onboard, train, and retain new and existing customers by ensuring they have the knowledge and skills to effectively use the product or service.",
+      "stepItems": []
+    },
+    {
+      "name": "Customer Success and Retention",
+      "uuid": "dce053d9-b8ca-498c-aaca-a323dbc0a166",
+      "content": "When customers are successful with a product, they are more likely to continue using it, reducing churn rates, improving customer retention, and increasing lifetime value. By providing valuable resources and support, companies can differentiate themselves from competitors and demonstrate that they prioritize customer success.",
+      "stepItems": []
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "eccd2ae9-28ad-4346-acae-382af9e08920",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "9f62e028-3207-4e48-a123-b4384f276d8b",
+          "choices": [
+            {
+              "key": "A",
+              "content": "To increase customer satisfaction"
+            },
+            {
+              "key": "B",
+              "content": "To reduce support tickets"
+            },
+            {
+              "key": "C",
+              "content": "To show customers the value of a product or service quickly and continuously over time"
+            },
+            {
+              "key": "D",
+              "content": "To improve efficiency"
+            }
+          ],
+          "content": "What is the main goal of customer education?",
+          "answerKeys": [
+            "C"
+          ],
+          "explanation": "The main goal of customer education is to show customers the value of a product or service quickly and continuously over time."
+        }
+      ]
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "596248e4-165b-4302-b14d-7105e24c1295",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "ec77e67e-815e-4a17-a0af-d62ddfe2514e",
+          "choices": [
+            {
+              "key": "A",
+              "content": "Increased product adoption, customer retention, and lifetime value (LTV)"
+            },
+            {
+              "key": "B",
+              "content": "Reduced support tickets and improved efficiency"
+            },
+            {
+              "key": "C",
+              "content": "Increased customer satisfaction and loyalty"
+            },
+            {
+              "key": "D",
+              "content": "Improved efficiency and reduced support tickets"
+            }
+          ],
+          "content": "What are the benefits of customer education programs?",
+          "answerKeys": [
+            "A"
+          ],
+          "explanation": "Customer education programs have a significant impact on various business metrics, such as product adoption, customer retention, and lifetime value (LTV)."
+        }
+      ]
+    }
+  ],
+  "spaceId": "dodao-academy"
+}
