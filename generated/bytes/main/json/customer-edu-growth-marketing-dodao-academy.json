@@ -1,0 +1,85 @@
+{
+  "uniqueId": "83ad5c60-06b1-40ac-9ae2-e5efd5b7f0c7",
+  "id": "customer-edu-growth-marketing-dodao-academy",
+  "name": "Customer Edu. - Growth Marketing",
+  "content": "Importance of Customer Education in Growth Marketing",
+  "created": "2023-08-23T18:44:10.867Z",
+  "visibility": "Public",
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "steps": [
+    {
+      "name": "Understanding Customer Education",
+      "uuid": "93435ed3-6f01-481f-b3eb-2f8fd4901b01",
+      "content": "Customer education is the process of teaching customers about a product or service and how it can benefit them. It involves providing customers with information and resources that help them understand a product or service and make informed decisions. This is crucial in today's competitive market, especially in the realm of growth marketing.",
+      "stepItems": []
+    },
+    {
+      "name": "Forms of Customer Education",
+      "uuid": "8e1204a0-5e58-499e-8222-9b868f87c8b7",
+      "content": "Customer education can take many forms, from product demos and tutorials to how-to guides and online forums. The goal is to ensure that customers have the knowledge and resources they need to use a product or service effectively and feel confident in their purchase decision.",
+      "stepItems": []
+    },
+    {
+      "name": "Role in Growth Marketing",
+      "uuid": "b22bdff0-9043-431c-b8dc-5dceb3115178",
+      "content": "In growth marketing, customer education is an essential component of the customer acquisition process. By providing customers with valuable information and resources, businesses can build trust and establish themselves as industry leaders. This can lead to increased customer loyalty and advocacy, which is critical for long-term growth and success.",
+      "stepItems": []
+    },
+    {
+      "name": "Beyond Selling",
+      "uuid": "8dec9eb2-9d86-4488-925d-cbdf79652e63",
+      "content": "Customer education is about more than just selling a product or service - it's about providing value to customers and building strong, lasting relationships. By focusing on education and empowerment, businesses can set themselves apart from competitors and create a loyal customer base that will help them grow and succeed in the long run.",
+      "stepItems": []
+    },
+    {
+      "name": "Customer Experience",
+      "uuid": "626a411d-a261-4ae3-9581-de935f8eb6d3",
+      "content": "In today's highly competitive business landscape, customer experience has emerged as a key differentiator for companies looking to attract and retain customers. With the rise of digital channels and the increasing influence of word-of-mouth marketing, the way a company interacts with its customers has become more important than ever.",
+      "stepItems": []
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "07676646-f35f-43b8-921d-0f7a82a185ec",
+      "content": "",
+      "stepItems": []
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "62ae9c93-f564-4264-a949-0f1bd72d6efb",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "ffd90987-805a-4fa5-81a3-dc42b63d3c9c",
+          "choices": [
+            {
+              "key": "A",
+              "content": "It helps businesses build trust, establish themselves as industry leaders, and increase customer loyalty and advocacy"
+            },
+            {
+              "key": "B",
+              "content": "It helps businesses reduce costs and increase profit margins"
+            },
+            {
+              "key": "C",
+              "content": "It helps businesses attract new customers and increase sales"
+            },
+            {
+              "key": "D",
+              "content": "It helps businesses improve their products and services based on customer feedback"
+            }
+          ],
+          "content": "Why is customer education important in growth marketing?",
+          "answerKeys": [
+            "A"
+          ],
+          "explanation": "It helps businesses build trust, establish themselves as industry leaders, and increase customer loyalty and advocacy."
+        }
+      ]
+    }
+  ],
+  "spaceId": "dodao-academy"
+}
