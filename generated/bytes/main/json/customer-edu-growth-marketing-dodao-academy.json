@@ -1,5 +1,5 @@
 {
-  "uniqueId": "83ad5c60-06b1-40ac-9ae2-e5efd5b7f0c7",
+  "uniqueId": "128bfb79-05c5-406e-a0e6-74b275fe9278",
   "id": "customer-edu-growth-marketing-dodao-academy",
   "name": "Customer Edu. - Growth Marketing",
   "content": "Importance of Customer Education in Growth Marketing",
@@ -38,12 +38,6 @@
       "name": "Customer Experience",
       "uuid": "626a411d-a261-4ae3-9581-de935f8eb6d3",
       "content": "In today's highly competitive business landscape, customer experience has emerged as a key differentiator for companies looking to attract and retain customers. With the rise of digital channels and the increasing influence of word-of-mouth marketing, the way a company interacts with its customers has become more important than ever.",
-      "stepItems": []
-    },
-    {
-      "name": "Evaluation",
-      "uuid": "07676646-f35f-43b8-921d-0f7a82a185ec",
-      "content": "",
       "stepItems": []
     },
     {
