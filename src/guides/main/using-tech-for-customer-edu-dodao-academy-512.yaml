@@ -1,6 +1,6 @@
 categories: []
 content: Leveraging The Use of Technology In Enhancing Customer Education
-created: '2023-08-29T17:59:56.771Z'
+created: '2023-08-29T18:01:27.838Z'
 guideType: onboarding
 key: using-tech-for-customer-edu-dodao-academy-512
 name: Using Tech. for Customer Edu.
@@ -56,7 +56,7 @@ steps:
     stepItems: []
     uuid: eed01b9c-3af5-4347-9fd5-a494ec31b00e
   - content: ''
-    name: Introduction Evaluation
+    name: Evaluation
     stepItems:
       - answerKeys:
           - C
@@ -186,5 +186,5 @@ steps:
     uuid: 443751cb-bcf3-4ef9-b070-942855fbe8fe
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/dodao-academy/Guide/75f5bfef_2650_4d35_bb90_61ce7f481e8a/1693331922133_undraw_analysis_dq08.png
-uuid: 75f5bfef-2650-4d35-bb90-61ce7f481e8a
+uuid: using-tech-for-customer-edu-dodao-academy-512
 version: 1
