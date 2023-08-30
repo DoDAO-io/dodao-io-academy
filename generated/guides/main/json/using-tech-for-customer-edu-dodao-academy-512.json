@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Leveraging The Use of Technology In Enhancing Customer Education",
-  "created": "2023-08-30T05:14:08.304Z",
+  "created": "2023-08-30T05:16:18.326Z",
   "guideType": "onboarding",
   "key": "using-tech-for-customer-edu-dodao-academy-512",
   "name": "Using Tech. for Customer Edu.",
@@ -106,6 +106,67 @@
       "name": "Integrating Gamification",
       "stepItems": [],
       "uuid": "443751cb-bcf3-4ef9-b070-942855fbe8fe"
+    },
+    {
+      "content": "",
+      "name": "Step 4",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Using basic gamification techniques",
+              "key": "A"
+            },
+            {
+              "content": "Using traditional teaching methods",
+              "key": "B"
+            },
+            {
+              "content": "Using emerging technologies like virtual reality, augmented reality, and artificial intelligence",
+              "key": "C"
+            },
+            {
+              "content": "Using only virtual reality",
+              "key": "D"
+            }
+          ],
+          "content": "What is the next-generation eLearning gamification?",
+          "type": "SingleChoice",
+          "uuid": "23111736-ac83-42f9-82c9-0f5bd1b1f3fd",
+          "explanation": "Next-generation eLearning gamification leverages emerging technologies like virtual reality, augmented reality, and artificial intelligence to create highly personalized and interactive experiences for learners."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "To decrease program enrollment",
+              "key": "A"
+            },
+            {
+              "content": "To increase program enrollment, active participation, and foster stronger brand loyalty",
+              "key": "B"
+            },
+            {
+              "content": "To discourage active participation",
+              "key": "C"
+            },
+            {
+              "content": "To make the process more complicated",
+              "key": "D"
+            }
+          ],
+          "content": "What is the purpose of integrating gamification into loyalty and rewards programs?",
+          "type": "SingleChoice",
+          "uuid": "ac7b1469-21ce-4c8b-ad7c-ee4f0049922e",
+          "explanation": "The integration of gamification into loyalty and rewards programs aims to increase program enrollment, active participation, and foster stronger brand loyalty. It also enhances the experience of redeeming loyalty points, turning it into a fun and engaging activity."
+        }
+      ],
+      "uuid": "f3eb7275-29cc-42a8-b46a-5d2669ebbc53"
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/dodao-academy/Guide/75f5bfef_2650_4d35_bb90_61ce7f481e8a/1693331922133_undraw_analysis_dq08.png",
