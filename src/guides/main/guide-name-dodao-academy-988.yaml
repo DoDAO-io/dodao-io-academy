@@ -1,9 +1,9 @@
 categories: []
 content: Practices to track customer education
-created: '2023-08-31T11:12:00.180Z'
+created: '2023-08-31T11:12:56.728Z'
 guideType: onboarding
 key: guide-name-dodao-academy-988
-name: Guide Name
+name: Track Customer Edu.
 publishStatus: Live
 steps:
   - content: >-
@@ -346,5 +346,5 @@ steps:
     uuid: 868e13df-7166-4fbc-853b-dcdf69d2c270
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/dodao-academy/Guide/f5c55e60_6632_4c74_970e_3e8e6d94035a/1693480287834_undraw_online_stats_0g94.png
-uuid: f5c55e60-6632-4c74-970e-3e8e6d94035a
+uuid: guide-name-dodao-academy-988
 version: 1
