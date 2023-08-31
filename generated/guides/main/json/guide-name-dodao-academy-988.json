@@ -1,0 +1,323 @@
+{
+  "categories": [],
+  "content": "Practices to track customer education",
+  "created": "2023-08-31T11:12:00.180Z",
+  "guideType": "onboarding",
+  "key": "guide-name-dodao-academy-988",
+  "name": "Guide Name",
+  "publishStatus": "Live",
+  "steps": [
+    {
+      "content": "To achieve these goals, businesses must determine the most important questions to educate customers and the most effective methods for providing customer education. By identifying the key areas of knowledge that customers need, businesses can focus their education efforts on addressing those specific needs. Additionally, businesses should explore different learning modalities, such as on-demand or self-paced learning, microlearning, and video streaming, to cater to different learning preferences and expand customers' understanding and application of the product or service.\n\n## Main Objectives of Customer Education\n \n### Reduce Dependence on Customer Support\n\nOne of the main objectives of customer education is to reduce the number of help desk calls made by customers. When customers are properly educated about a product or service, they are less likely to encounter issues or have questions that require support. By providing customers with the necessary knowledge and resources, businesses can empower them to troubleshoot problems on their own. This not only reduces the burden on the support division but also improves the overall customer experience.\n\n### Increase Customer Engagement\n\nAnother important goal of customer education is to keep customers engaged and prevent them from drifting away from a product or service over time. Without ongoing education, the information provided during onboarding can become outdated, leading to a decrease in customer satisfaction. By continuously educating customers and providing them with up-to-date information, businesses can ensure that customers remain knowledgeable and comfortable with the product or service.\n        ",
+      "name": "Setting Goals and Objectives",
+      "stepItems": [],
+      "uuid": "450ea3a7-3d81-4c07-b517-c68dae71a276"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "To increase the number of help desk calls",
+              "key": "A"
+            },
+            {
+              "content": "To make customers dependent on customer support",
+              "key": "B"
+            },
+            {
+              "content": "To reduce dependence on customer support",
+              "key": "C"
+            },
+            {
+              "content": "To make the product or service more complicated",
+              "key": "D"
+            }
+          ],
+          "content": "What is one of the main objectives of customer education?",
+          "type": "SingleChoice",
+          "uuid": "5eabe850-2795-47d3-9246-e7ea86814d1d",
+          "explanation": "One of the main objectives of customer education is to reduce the number of help desk calls made by customers. This is achieved by providing customers with the necessary knowledge and resources to troubleshoot problems on their own."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "To make customers feel overwhelmed with information",
+              "key": "A"
+            },
+            {
+              "content": "To keep customers engaged and knowledgeable about the product or service",
+              "key": "B"
+            },
+            {
+              "content": "To increase the price of the product or service",
+              "key": "C"
+            },
+            {
+              "content": "To make the product or service less attractive",
+              "key": "D"
+            }
+          ],
+          "content": "Why is continuous customer education important?",
+          "type": "SingleChoice",
+          "uuid": "9d06a9a3-c5cf-4731-a5a4-7bd507bd96a8",
+          "explanation": "Continuous customer education is important to keep customers engaged and prevent them from drifting away from a product or service over time. It ensures that customers remain knowledgeable and comfortable with the product or service."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "The least important questions to educate customers",
+              "key": "A"
+            },
+            {
+              "content": "The most complicated methods for providing customer education",
+              "key": "B"
+            },
+            {
+              "content": "The least effective methods for providing customer education",
+              "key": "C"
+            },
+            {
+              "content": "The key areas of knowledge that customers need",
+              "key": "D"
+            }
+          ],
+          "content": "What should businesses identify to focus their education efforts?",
+          "type": "SingleChoice",
+          "uuid": "d8f0d4d3-6da7-44b1-9403-86756289b0bb",
+          "explanation": "Businesses should identify the key areas of knowledge that customers need in order to focus their education efforts on addressing those specific needs."
+        }
+      ],
+      "uuid": "742e94f5-5932-47ec-8a12-df9fd94a410c"
+    },
+    {
+      "content": "Setting Key Performance Indicators (KPIs) and monitoring their impact is crucial for the success of a customer education program. It allows organizations to track the effectiveness of their program and make improvements where necessary. \n\nMeasuring the impact of a customer education program is crucial. By tracking metrics such as support ticket volume and customer support manager workload, organizations can assess the cost-saving benefits of an effective customer education program. When customers are self-sufficient and can solve problems on their own, support costs are reduced.\n\nThe following KPIs could be used to measure the impact of the customer education:\n\n### Customer Acquisition Cost\n\nOne important KPI to consider is the Customer Acquisition Cost (CAC), which measures the financial cost of gaining a new customer. By improving the customer education program, organizations can reduce CAC by using it as a cost-effective marketing tool. \n\n### Customer Churn Rate\n\nAnother important KPI is the Customer Churn Rate, which measures the rate at which customers leave a business. By providing effective customer education, organizations can reduce churn by shortening the time to value for customers. When customers start seeing real benefits from a product or service quickly, they are less likely to leave. \n\n### Customer Enagagement\n\nCustomer engagement is another critical KPI to monitor. It measures the number and quality of interactions between customers and a brand. By tracking customer behavior and interactions, organizations can gauge the effectiveness of their customer education program. Engaged customers are more likely to be loyal and make repeat purchases.\n\n### Customer Satisfaction\n\nCustomer satisfaction is also an important KPI to consider. It measures how happy customers are with their experiences with a brand. By providing excellent customer education resources, organizations can improve customer satisfaction and increase their Net Promoter Score (NPS). Satisfied customers are more likely to be loyal and recommend a brand to others.\n",
+      "name": "Setting KPIs & Monitor Impact",
+      "stepItems": [],
+      "uuid": "e2eda72f-3fab-4a01-a308-0a1176238d3e"
+    },
+    {
+      "content": "\n",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "To increase the workload of customer support managers",
+              "key": "A"
+            },
+            {
+              "content": "To increase the number of support tickets",
+              "key": "B"
+            },
+            {
+              "content": "To track the effectiveness of the program and make improvements",
+              "key": "C"
+            },
+            {
+              "content": "To increase the customer churn rate",
+              "key": "D"
+            }
+          ],
+          "content": "Why is setting KPIs and monitoring their impact crucial for a customer education program?",
+          "type": "SingleChoice",
+          "uuid": "7cd5570a-9c34-4233-8a40-55d0b3e6a150",
+          "explanation": "Setting KPIs and monitoring their impact allows organizations to track the effectiveness of their customer education program and make necessary improvements."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "The rate at which customers leave a business",
+              "key": "A"
+            },
+            {
+              "content": "The financial cost of gaining a new customer",
+              "key": "B"
+            },
+            {
+              "content": "The number of interactions between customers and a brand",
+              "key": "C"
+            },
+            {
+              "content": "How happy customers are with their experiences with a brand",
+              "key": "D"
+            }
+          ],
+          "content": "What does the Customer Acquisition Cost (CAC) KPI measure?",
+          "type": "SingleChoice",
+          "uuid": "5918fd8f-90e7-4fbc-95b0-8f04e7ee960b",
+          "explanation": "The Customer Acquisition Cost (CAC) KPI measures the financial cost of gaining a new customer."
+        },
+        {
+          "answerKeys": [
+            "A"
+          ],
+          "choices": [
+            {
+              "content": "The rate at which customers leave a business",
+              "key": "A"
+            },
+            {
+              "content": "The financial cost of gaining a new customer",
+              "key": "B"
+            },
+            {
+              "content": "The number of interactions between customers and a brand",
+              "key": "C"
+            },
+            {
+              "content": "How happy customers are with their experiences with a brand",
+              "key": "D"
+            }
+          ],
+          "content": "What does the Customer Churn Rate KPI measure?",
+          "type": "SingleChoice",
+          "uuid": "2dce3fd4-fa37-4749-ba68-5ce99a8e0df7",
+          "explanation": "The Customer Churn Rate KPI measures the rate at which customers leave a business."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "The rate at which customers leave a business",
+              "key": "A"
+            },
+            {
+              "content": "The financial cost of gaining a new customer",
+              "key": "B"
+            },
+            {
+              "content": "The number of interactions between customers and a brand",
+              "key": "C"
+            },
+            {
+              "content": "How happy customers are with their experiences with a brand",
+              "key": "D"
+            }
+          ],
+          "content": "What does the Customer Satisfaction KPI measure?",
+          "type": "SingleChoice",
+          "uuid": "8ce71adc-b5c6-4af8-bdaf-ea95db4f0dc6",
+          "explanation": "The Customer Satisfaction KPI measures how happy customers are with their experiences with a brand."
+        }
+      ],
+      "uuid": "bc125d29-546f-4028-8694-ea2c574f3284"
+    },
+    {
+      "content": "Analyzing customer education data is crucial for businesses to thrive in today's competitive market. Recent research has shown that companies that prioritize customer-centric approaches are 60% more profitable than those that don't. A customer-focused company understands the needs and desires of its customers and takes a proactive approach to meet those needs. One way to achieve this is through customer education programs.\n\n### Benefits of Customer Education Data\n\nCustomer education programs offer 360˚ support to clients, including knowledge databases, video tutorials, webinars, and other learning materials. These programs not only benefit customers but also provide valuable data for businesses. Customer education data can provide insights into customer demographics, preferences, and their interaction with training materials. This information helps businesses understand their customers better and tailor their strategies to meet their needs.\n\nThere are three main categories of customer education data: customer data, learning material data, and business impact data. Customer data includes demographic information as well as more personal details that are important to know. Learning material data focuses on the effectiveness and engagement of training materials, allowing businesses to make necessary improvements. Business impact data looks at key performance indicators (KPIs) to understand the overall impact of customer education programs on the business.\n\nBy analyzing customer education data, businesses can make informed decisions to optimize their operations and increase profitability. This data provides insights into customer behavior, preferences, and expectations, allowing businesses to stay ahead of the game. It also helps businesses personalize their messaging, improve product adoption rates, and allocate marketing resources effectively. Additionally, customer education data can help identify areas for improvement in training materials and support resources.",
+      "name": "Analysing Customer Edu. Data",
+      "stepItems": [],
+      "uuid": "d77906e2-3f05-4034-b3cd-f36ee893fff3"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "To increase the number of customers",
+              "key": "A"
+            },
+            {
+              "content": "To reduce the cost of production",
+              "key": "B"
+            },
+            {
+              "content": "To improve the quality of products",
+              "key": "C"
+            },
+            {
+              "content": "To understand customers better and tailor strategies to meet their needs",
+              "key": "D"
+            }
+          ],
+          "content": "What is the main purpose of analyzing customer education data?",
+          "type": "SingleChoice",
+          "uuid": "06ffd652-087e-41c0-b682-7a8dadd21b15",
+          "explanation": "Analyzing customer education data helps businesses understand their customers better, tailor their strategies to meet their needs, make informed decisions to optimize operations, and increase profitability."
+        },
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Customer data, product data, and sales data",
+              "key": "A"
+            },
+            {
+              "content": "Customer data, employee data, and business data",
+              "key": "B"
+            },
+            {
+              "content": "Customer data, learning material data, and business impact data",
+              "key": "C"
+            },
+            {
+              "content": "Customer data, marketing data, and financial data",
+              "key": "D"
+            }
+          ],
+          "content": "What are the three main categories of customer education data?",
+          "type": "SingleChoice",
+          "uuid": "2b80469c-5aa0-4b2c-b284-040318dce535",
+          "explanation": "The three main categories of customer education data are customer data, learning material data, and business impact data."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "Customer's financial status and credit history",
+              "key": "A"
+            },
+            {
+              "content": "Customer demographics, preferences, and their interaction with training materials",
+              "key": "B"
+            },
+            {
+              "content": "Company's financial status and market position",
+              "key": "C"
+            },
+            {
+              "content": "Company's marketing strategies and sales performance",
+              "key": "D"
+            }
+          ],
+          "content": "What does customer education data provide insights into?",
+          "type": "SingleChoice",
+          "uuid": "56e0b927-13b9-4512-9a5c-3d4ae1a6ee84",
+          "explanation": "Customer education data provides insights into customer demographics, preferences, and their interaction with training materials."
+        }
+      ],
+      "uuid": "868e13df-7166-4fbc-853b-dcdf69d2c270"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/dodao-academy/Guide/f5c55e60_6632_4c74_970e_3e8e6d94035a/1693480287834_undraw_online_stats_0g94.png",
+  "uuid": "f5c55e60-6632-4c74-970e-3e8e6d94035a",
+  "version": 1
+}
