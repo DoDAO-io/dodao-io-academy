@@ -1,0 +1,215 @@
+{
+  "categories": [],
+  "content": "Efficient Tactics for Promoting Customer Education Programs",
+  "created": "2023-08-31T06:31:26.306Z",
+  "guideType": "onboarding",
+  "key": "promoting-customer-edu-programs-dodao-academy-695",
+  "name": "Promoting Customer Edu. Programs",
+  "publishStatus": "Live",
+  "steps": [
+    {
+      "content": "The power of education-based marketing lies in the idea that businesses should prioritize teaching their audience before trying to sell them something. By providing informative and educational content, brands can establish themselves as thought leaders and build trust with their audience. This approach is effective at every stage of the customer journey, from attracting new audiences to nurturing leads and eventually converting them into customers.\n\nEducational content marketing aims to provide value to the audience by educating them on specific topics. By creating content that users feel something about, brands can encourage customer interaction and increase shareability. This can include creative ideas, thought-provoking content, or tutorials that teach and educate the audience in different formats.\n\nDifferent types of content can be used to educate and engage the audience. Blog posts are versatile and shareable, while newsletters can be used to remind customers about new products and provide educational content. Infographics can make complex narratives easier to understand, and webinars can generate leads while educating audiences. By partnering with reputable publications, brands can provide their audience with educational and credible content that is hard to access elsewhere.\n\nEducational content not only helps to create customer loyalty and retention but also improves profits. Retaining existing customers is more cost-effective than acquiring new ones, and educational content can help build customer loyalty and turn one-time buyers into long-term customers. Industries are constantly changing, and customers need to stay informed to remain competitive. By providing educational content, brands can keep their audience engaged, build brand awareness and authority, and increase conversions.\n\nThe value of educational-based marketing lies in its ability to provide valuable and relevant information to the audience. By breaking down complex topics in an engaging and easy-to-understand way, brands can capture a larger audience, including both beginners and experts in their field. Creating educational content that is consistent and credible establishes the brand as a thought leader and sets it apart from competitors. This strategy allows brands to capture leads at every stage of the marketing funnel and nurture them towards a purchase decision.",
+      "name": "Power of Edu.-Based Marketing",
+      "stepItems": [],
+      "uuid": "e6862fb4-453a-4e79-ae4a-5512b2163cda"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "To sell products directly to the audience",
+              "key": "A"
+            },
+            {
+              "content": "To create entertaining content for the audience",
+              "key": "B"
+            },
+            {
+              "content": "To educate the audience before trying to sell them something",
+              "key": "C"
+            },
+            {
+              "content": "To create controversial content to attract attention",
+              "key": "D"
+            }
+          ],
+          "content": "What is the main idea behind education-based marketing?",
+          "type": "SingleChoice",
+          "uuid": "5e72a6cb-5aa6-4462-b4d7-08ca8cb469a7",
+          "explanation": "Education-based marketing is about prioritizing teaching the audience before trying to sell them something. By providing informative and educational content, brands can build trust with their audience and establish themselves as thought leaders."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "It helps the brand to create controversial content",
+              "key": "A"
+            },
+            {
+              "content": "It helps to create customer loyalty, increase conversions, and improve profits",
+              "key": "B"
+            },
+            {
+              "content": "It helps the brand to sell products directly",
+              "key": "C"
+            },
+            {
+              "content": "It helps the brand to create entertaining content",
+              "key": "D"
+            }
+          ],
+          "content": "How does educational content marketing benefit a brand?",
+          "type": "SingleChoice",
+          "uuid": "ecb3f8fc-0587-4f9f-9473-c660cf083405",
+          "explanation": "Educational content not only helps to create customer loyalty and retention but also improves profits. It can build customer loyalty, turn one-time buyers into long-term customers, keep the audience engaged, build brand awareness and authority, and increase conversions."
+        }
+      ],
+      "uuid": "0b300593-4d89-4833-84d2-30af7e9b5a58"
+    },
+    {
+      "content": "When it comes to promoting customer education programs, employing the right strategies is crucial. One can enhance the visibility and success of their customer education platforms using the following approaches: \n\n# # # **Utilize Email Marketing** \nEmail is a popular and effective channel for marketing education programs. It allows you to reach your audience directly and promote your offerings. You can send welcome emails to new learners, confirming their registration and providing information on courses and content they can explore. Additionally, you can send promotional emails when launching new education offerings or as part of an email series introducing learners to different courses they can explore. Reminder emails can also be sent to encourage learners to continue their learning journey.\n\n# # # **Leverage Social Media**\nSocial media platforms can be a valuable avenue for promoting your education programs to both new and existing learners. You can share the enrollment link from your company page and include compelling copy to attract attention. Encourage learners to share their reviews on professional platforms like LinkedIn to showcase their experience. Influencer marketing and employee advocacy can also be utilized to gain exposure.\n\n# # # **Showcase on Your Website**\nYour website is an opportunity to showcase your investment in learning and education programs. Highlight your programs using links in the header and footer navigation, making it easily accessible to visitors. Position your platform as a go-to destination for prospective customers to start learning about your business or as a value-add for existing customers. Demonstrating your commitment to customer education can attract and retain customers.\n\n# # # **Use In-App Messages and Notifications** \nIf you offer a SaaS solution, you can leverage in-app messages and notifications to promote your education programs. Incorporate lessons that tie to your product functionality on the dashboard of your product. If you also provide just-in-time learning content like help articles, use in-app navigation to surface relevant content or link to additional learning. This ensures that users are aware of the educational resources available to them while using your product.\n\n# # # **Collaborate with Internal Teams** \nBuilding relationships with other customer-facing teams can help promote your education offerings. Collaborate with teams such as customer success, support, marketing, and sales to keep education top of mind. Your marketing team can include on-demand education content or learning events in their newsletters. Colleagues can bring up education programs in 1:1 conversations with customers. Provide templated language and slides to empower customer-facing teams to highlight your education offerings. Incorporate education programs into meetings, decks, and communications with customers.",
+      "name": "Marketing Customer Edu. Programs",
+      "stepItems": [],
+      "uuid": "b77443b6-0071-4838-92f1-51fd7b2dc8a8"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "Utilize Email Marketing",
+              "key": "A"
+            },
+            {
+              "content": "Leverage Social Media",
+              "key": "B"
+            },
+            {
+              "content": "Showcase on Your Website",
+              "key": "C"
+            },
+            {
+              "content": "Send Spam Emails",
+              "key": "D"
+            }
+          ],
+          "content": "Which of the following is NOT a strategy for promoting customer education programs?",
+          "type": "SingleChoice",
+          "uuid": "b766a1a0-e8de-4fff-a26b-c40d4868bfb9",
+          "explanation": "While all the other options are valid strategies for promoting customer education programs, sending spam emails is not recommended as it can lead to negative customer perception and may violate privacy laws."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "By posting unrelated content",
+              "key": "A"
+            },
+            {
+              "content": "By highlighting your programs using links in the header and footer navigation",
+              "key": "B"
+            },
+            {
+              "content": "By hiding the programs in hard-to-find sections",
+              "key": "C"
+            },
+            {
+              "content": "By not mentioning the programs at all",
+              "key": "D"
+            }
+          ],
+          "content": "How can you use your website to promote your customer education programs?",
+          "type": "SingleChoice",
+          "uuid": "ff95ef34-56fe-4b7f-8090-54ee15c194b3",
+          "explanation": "Highlighting your programs using links in the header and footer navigation makes them easily accessible to visitors. Positioning your platform as a go-to destination for prospective customers to start learning about your business or as a value-add for existing customers can attract and retain customers."
+        }
+      ],
+      "uuid": "defeee31-83a4-446e-b2a0-48030e1b1560"
+    },
+    {
+      "content": "By following these procedures, you can successfully implement customer education as a marketing tool:\n\n# # # **Aligning Goals at Every Level**\nTo implement customer education as a marketing tool, it is crucial to align your goals at every level of your organization. This means conducting whiteboard sessions with top leaders and decision-makers to discuss important metrics such as customer acquisition and lifetime value. Without this top-bottom synchronization, your customer education program will not be successful.\n\n# # # **Departmental Impact**\nCustomer education has an impact on various departments within your company, including sales, marketing, and customer success. It is important to reassess what these departments are currently using as proxies for customer success and how customer education can become a helpful user-level metric for them. By aligning efforts and focusing on consistency, you can greatly impact engagement rates and course completion.\n\n# # # **Building a Solid Foundation**\nImplementing customer education is not an overnight process. It takes time to optimize your program for your unique goals and message. It is important to avoid comparing yourself to global-class academies when you are just starting out. Instead, focus on making small efforts that move you in the right direction. \n\n# # # **Setting Learning Objectives**\nOnce you have established your goals, it is important to set clear learning objectives for your customers. These objectives should align with your business outcomes and guide the entire educational journey. Work with subject matter experts to narrow down the content scope and prioritize what you will educate your customers about.\n\n# # # **Creating Engaging Content**\nTo foster fast-learning cognitive capacity, it is important to create a dynamic learning environment. This can be achieved by using a mix of content types such as videos, infographics, and slideshows. Keep in mind that most learners do not have time to invest hours in learning, so aim for shorter and snappier content that can be consumed in a 5-10 minute window.\n\n# # # **Delivery and Measurement**\nOnce you have developed your content, it is important to have a delivery process in place. This includes integrating a tech stack to support scaling your education program and deploying the resources you have created. Throughout the process, engage with your customers and gather feedback to continuously improve your program. Assess your progress at deeper levels, looking at learning proficiency, operational impact, relationship growth, and ticket cost.",
+      "name": "Customer Edu. as Marketing Tool ",
+      "stepItems": [],
+      "uuid": "defeb876-887b-42b1-9f82-1b09b9e98609"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Conducting whiteboard sessions with only top leaders",
+              "key": "A"
+            },
+            {
+              "content": "Focusing only on customer acquisition",
+              "key": "B"
+            },
+            {
+              "content": "Aligning goals at every level of your organization",
+              "key": "C"
+            },
+            {
+              "content": "Ignoring the impact on various departments within your company",
+              "key": "D"
+            }
+          ],
+          "content": "What is crucial to implement customer education as a marketing tool?",
+          "type": "SingleChoice",
+          "uuid": "881ac3a7-cd12-476f-89ef-e61715a54f27",
+          "explanation": "To implement customer education as a marketing tool, it is crucial to align your goals at every level of your organization."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "Creating long and detailed content",
+              "key": "A"
+            },
+            {
+              "content": "Using a mix of content types such as videos, infographics, and slideshows",
+              "key": "B"
+            },
+            {
+              "content": "Focusing only on text-based content",
+              "key": "C"
+            },
+            {
+              "content": "Ignoring the learning capacity of the customers",
+              "key": "D"
+            }
+          ],
+          "content": "What is important in creating engaging content for customer education?",
+          "type": "SingleChoice",
+          "uuid": "887eeaca-20fe-4498-9af2-389ed326a9cd",
+          "explanation": "To foster fast-learning cognitive capacity, it is important to create a dynamic learning environment. This can be achieved by using a mix of content types such as videos, infographics, and slideshows."
+        }
+      ],
+      "uuid": "76dbb8d3-7dbd-4746-b328-5c841cd41723"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/dodao-academy/Guide/74c58d68_1547_4946_8f59_1aa153fd668a/1693463480297_undraw_product_explainer_8jbm.png",
+  "uuid": "74c58d68-1547-4946-8f59-1aa153fd668a",
+  "version": 1
+}
